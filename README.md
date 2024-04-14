@@ -8,4 +8,6 @@ Foram utilizadas as tecnologias:
 * CSS
 * JAVASCRIPT
 
-![alt text](image.png)
+[Clique aqui para acessar o projeto](https://gasolina-ou-alcool.vercel.app/) 
+
+![alt text](./assets/img/image.png)
